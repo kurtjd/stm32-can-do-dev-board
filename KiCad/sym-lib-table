@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATA6561")(type "KiCad")(uri "${KIPRJMOD}/ata6561/KiCADv6/ATA6561.kicad_sym")(options "")(descr ""))
+)

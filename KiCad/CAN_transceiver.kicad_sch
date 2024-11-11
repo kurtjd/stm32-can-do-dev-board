@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "8cc952d4-4ac1-4644-805e-9407071e4326")
+	(paper "A4")
+	(title_block
+		(title "CAN Transceiver")
+		(date "2024-11-03")
+		(rev "v0.1")
+		(company "OSU DAM Robotics")
+		(comment 1 "Author: Kurtis Dinelle")
+	)
+	(lib_symbols)
+)

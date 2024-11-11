@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ATA6561")(type "KiCad")(uri "${KIPRJMOD}/ata6561/KiCADv6/ATA6561.pretty")(options "")(descr ""))
+  (lib (name "NX3225GD")(type "KiCad")(uri "${KIPRJMOD}/nx3225gd/KiCADv6/NX3225GD.pretty")(options "")(descr ""))
+  (lib (name "PE53829SNLT")(type "KiCad")(uri "${KIPRJMOD}/pe53829snlt/KiCADv6/PE53829SNLT.pretty")(options "")(descr ""))
+)
